@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/七大原则/七大原则.iml" filepath="$PROJECT_DIR$/七大原则/七大原则.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代理模式/代理模式.iml" filepath="$PROJECT_DIR$/代理模式/代理模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/原型模式与单例模式/原型模式与单例模式.iml" filepath="$PROJECT_DIR$/原型模式与单例模式/原型模式与单例模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/备忘录和中介模式/备忘录和中介模式.iml" filepath="$PROJECT_DIR$/备忘录和中介模式/备忘录和中介模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/外观与享元模式/外观与享元模式.iml" filepath="$PROJECT_DIR$/外观与享元模式/外观与享元模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/建造者与抽象工厂/建造者与抽象工厂.iml" filepath="$PROJECT_DIR$/建造者与抽象工厂/建造者与抽象工厂.iml" />
+      <module fileurl="file://$PROJECT_DIR$/状态与观察者/状态与观察者.iml" filepath="$PROJECT_DIR$/状态与观察者/状态与观察者.iml" />
+      <module fileurl="file://$PROJECT_DIR$/简单工厂与工厂方法/简单工厂与工厂方法.iml" filepath="$PROJECT_DIR$/简单工厂与工厂方法/简单工厂与工厂方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/组合与装饰模式/组合与装饰模式.iml" filepath="$PROJECT_DIR$/组合与装饰模式/组合与装饰模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/职责与命令模式/职责与命令模式.iml" filepath="$PROJECT_DIR$/职责与命令模式/职责与命令模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/解释器/解释器.iml" filepath="$PROJECT_DIR$/解释器/解释器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式.iml" filepath="$PROJECT_DIR$/设计模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/迭代器访问者模板策略模式/迭代器访问者模板策略模式.iml" filepath="$PROJECT_DIR$/迭代器访问者模板策略模式/迭代器访问者模板策略模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/适配器与桥连接/适配器.iml" filepath="$PROJECT_DIR$/适配器与桥连接/适配器.iml" />
+    </modules>
+  </component>
+</project>
